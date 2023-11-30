@@ -1,5 +1,5 @@
 # DISCO Project
-Source code: C++  
+Source Code: C++  
 Name: Rohit Raj  
 Team Members: 1  
 ID: 2022A7PS0157G

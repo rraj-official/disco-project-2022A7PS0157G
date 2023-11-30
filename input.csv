@@ -1,0 +1,13 @@
+Name,Category,Number,Preferences
+prof1,x1,1,"C3,C5,C8,C14,C2"
+prof2,x1,2,"C9,C5,C3,C8,C14"
+prof3,x1,3,"C5,C14,C9,C10,C3"
+prof4,x1,4,"C13,C1,C5,C8,C15"
+prof5,x2,5,"C12,C3,C8,C6,C15"
+prof6,x2,6,"C15,C4,C11,C7,C2"
+prof7,x2,7,"C3,C10,C12,C6,C7"
+prof8,x2,8,"C6,C3,C12,C11,C4"
+prof9,x3,9,"C10,C8,C6,C14,C7"
+prof10,x3,10,"C8,C13,C9,C15,C4"
+prof11,x3,11,"C2,C8,C6,C10,C11"
+prof12,x3,12,"C12,C4,C8,C11,C5"

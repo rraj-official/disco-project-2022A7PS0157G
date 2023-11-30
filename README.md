@@ -8,5 +8,6 @@ HOW TO RUN
 1. Open Terminal
 2. Enter ./go (choice)  
   where (choice) is either 1/2/3/4, which represents the four solutions.
+3. Open output.csv to see results.
 ### PLEASE watch the entire video, even if at 2x
 ### Preferably watch the video after reading the report.

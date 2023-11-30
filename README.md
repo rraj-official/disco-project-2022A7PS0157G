@@ -1,5 +1,5 @@
 # DISCO Project
-Video Link: https://youtu.be/5SxIz6fcWpM (too large for github)
+Video Link: https://youtu.be/5SxIz6fcWpM (too large for GitHub)  
 Source Code: C++  
 Name: Rohit Raj  
 Team Members: 1  
